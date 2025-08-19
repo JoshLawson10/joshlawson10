@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Josh 👋
 
-<!--
-**JoshLawson10/joshlawson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like mixing code with design until something useful (and hopefully beautiful) comes out.  
 
-Here are some ideas to get you started:
+Right now, I’m pouring way too much energy into **[TermUI](https://github.com/JoshLawson10/termui)** — a modern Python library for building clean, themeable terminal UIs.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, you’ll probably find me drumming or experimenting in the kitchen.  
+
+---
+
+## What I'm Working On 🚀
+- **[TermUI](https://github.com/JoshLawson10/termui)** — A theme-first Python UI library for the terminal (because console apps deserve to look good).
+
+---
+
+## About Me
+- I like building **developer tools** that balance simplicity and flexibility.  
+- I believe **good design makes code more enjoyable**.  
+- I spend more time breaking things than I probably should...
